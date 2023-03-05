@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @presianrusinov
-- 👀 I’m interested in Web Development, learning new technologies
-- 🌱 I’m currently learning JavaScript,HTML,CSS
-- 💞️ I’m looking to collaborate on all sorts of projects
+- 👀 I’m interested in Web Development, System administration 
+- 🌱 I’m currently learning React, preparing for an RHCSA exam.
+- 💞️ I’m looking to collaborate on react projects.
 - 📫 How to reach me: this profile, or my facebook page https://www.facebook.com/genovese88
 
 <!---
