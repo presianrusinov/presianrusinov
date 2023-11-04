@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @presianrusinov
-- 👀 I’m interested in Web Development, System administration 
-- 🌱 I’m currently learning React, preparing for an RHCSA exam.
-- 💞️ I’m looking to collaborate on react projects.
+- 👀 I’m interested in Python, System administration 
+- 🌱 I am a certified Red Hat System Administrator
+- 💞️ I’m looking to collaborate on python project,container projects, linux projects 
 - 📫 How to reach me: this profile, or my facebook page https://www.facebook.com/genovese88
 
 <!---
